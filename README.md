@@ -36,7 +36,7 @@ quizsystem/
 
 ## 📸 Screenshots
 
-![Quiz Front-End](screenshots/online-quiz-system-frontend-screenshot.png)
+!(screenshots/online-quiz-system-frontend-screenshot.png)
 
 ---
 
